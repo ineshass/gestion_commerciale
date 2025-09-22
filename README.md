@@ -69,8 +69,7 @@ cd gestion-commerciale
 
 ---
 
-##  Captures d'écran
-### authentification
+
 
 
 
